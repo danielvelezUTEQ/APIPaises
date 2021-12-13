@@ -1,0 +1,14 @@
+POSTGRESQL
+
+user: appdist_spa2021
+pass: @Aplicaciones@Distribuidas@SPA@2021
+host: 190.15.134.7
+port: 8080
+
+
+MongoDB
+
+user: appdist_spa
+pass: @Aplicaciones@Distribuidas@spa@2021
+host: 190.15.134.7
+port: 20017
