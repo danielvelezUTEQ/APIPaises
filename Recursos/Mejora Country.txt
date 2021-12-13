@@ -1,0 +1,12 @@
+{
+		"id" : 144,
+		"name" : "Afganistán",
+		"flag": "https://restcountries.eu/data/afg.svg",
+		"capital":  "Kabul",
+		"coordinates": [
+			"33.93911", "67.709953"
+		],
+		"callCode": [
+			"93"
+		]
+	}
